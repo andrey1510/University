@@ -1,6 +1,6 @@
 package Implementation;
 
-//import Models.Staff;
+
 import Models.*;
 
 import java.util.*;
@@ -177,7 +177,3 @@ public class TestUniversity {
 
 
 
-/*
-* 1. Написать компаратор, и сравнить студентов по IQ
-* 2. Написать еще компаратор и вывести список студентов по Id в убывающем порядке.
-**/
